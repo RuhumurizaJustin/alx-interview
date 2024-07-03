@@ -50,4 +50,3 @@ def loop_n_find(nlist, curr_num):
 for i in range(layout):
     arr = [[0, i]]
     loop_n_find(arr, 1)
-    
